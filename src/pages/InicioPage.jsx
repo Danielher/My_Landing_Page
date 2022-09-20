@@ -45,7 +45,7 @@ export const InicioPage = () => {
           <div className="lg:absolute lg:inset-y-1 lg:right-0 lg:w-1/2 pr-10">
             <img
               className="h-52 w-full object-cover sm:h-62 md:h-76 lg:h-full lg:w-full"
-              src="./src/assets/Fondo2.png"
+              src="../public/Fondo2.png"
               alt=""
             />
           </div>
