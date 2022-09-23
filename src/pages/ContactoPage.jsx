@@ -61,7 +61,7 @@ export const ContactoPage = () => {
             </div>
             <div className="mb-2">
               <label>
-                <span class="text-gray-700">Mensaje</span>
+                <span className="text-gray-700">Mensaje</span>
                 <textarea
                   name="message"
                   className="
@@ -81,7 +81,7 @@ export const ContactoPage = () => {
               </label>
             </div>
 
-            <div class="mb-6">
+            <div className="mb-6">
               <button
                 type="submit"
                 className="
