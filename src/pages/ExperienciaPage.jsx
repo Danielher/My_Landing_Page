@@ -15,7 +15,7 @@ export const ExperienciaPage = () => {
               Coordinador de Tecnologia{" "}
               <span className="text-gray-300">- Libertadora de Seguridad</span>
             </h5>
-            <p class="mb-3 font-normal text-gray-100 dark:text-gray-400">
+            <p className="mb-3 font-normal text-gray-100 dark:text-gray-400">
               Sep, 2018 - actualmente
             </p>
             <p className="text-justify  bg-gray-300 opacity-60 rounded-md p-2 md:text-1xl lg:text-2xl">

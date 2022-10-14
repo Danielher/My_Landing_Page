@@ -5,14 +5,14 @@ export default function Navbar() {
   const [navbarOpen, setNavbarOpen] = React.useState(false);
   return (
     <>
-      <nav className="sticky top-0 flex flex-wrap items-center justify-between px-2 py-3 bg-gradient-to-bl from-gray-500 via-gray-800 to-black">
+      <nav className="sticky top-0 flex flex-wrap items-center justify-between z-50 px-2 py-3 bg-gradient-to-bl from-gray-500 via-gray-800 to-black">
         <div className="container px-4 mx-auto flex flex-wrap items-center justify-between">
           <div className="w-full relative flex justify-between lg:w-auto lg:static lg:block lg:justify-start">
             <a
               className="text-xl font-bold leading-relaxed inline-block mr-4 py-2 whitespace-nowrap uppercase text-white"
               href="/"
             >
-              <h1>DANIEL{' '}<span className="text-orange-400">ANDRES{' '}</span>HERNANDEZ{' '}<span className="text-orange-400">AYALA</span></h1>
+              <h1 className="animate__animated animate__backInDown">DANIEL{' '}<span className="text-orange-400">ANDRES{' '}</span>HERNANDEZ{' '}<span className="text-orange-400">AYALA</span></h1>
             </a>
             <button
               className="text-orange-400 cursor-pointer text-xl leading-none px-3 py-1 border border-solid border-transparent rounded bg-transparent block lg:hidden outline-none focus:outline-none"

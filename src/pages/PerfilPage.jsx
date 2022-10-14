@@ -21,7 +21,7 @@ export const PerfilPage = () => {
             </p>
           </div>
           <div className="hero container max-w-screen-lg mx-auto pb-10 flex justify-center">
-            <img className="" src="./src/assets/ImagenPerfil.svg" alt="" />
+            <img className="" src="./public/ImagenPerfil.svg" alt="Imagen_Perfil" />
           </div>
         </div>
       </div>

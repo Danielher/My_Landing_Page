@@ -16,17 +16,16 @@ export const InicioPage = () => {
                 Creemos Juntos
               </h1>
               <h2 className="block text-orange-400 text-5xl font-bold">
-                Buenos Proyectos
+                Grandes Proyectos
               </h2>
               <p className="mt-3 text-base text-gray-100 sm:mx-auto sm:mt-5 sm:max-w-xl sm:text-lg md:mt-5 md:text-xl lg:mx-0">
-                "Un buen proyecto Web se mide por la calidad y su excelente
-                funcionalidad."
+                "Me encanta el Desarrollo Web y te invito a que expresemos tus ideas de la mejor forma en internet."
               </p>
               <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                 <div className="rounded-md shadow">
                   <a
                     href="https://github.com/Danielher"
-                    className="flex w-full items-center justify-center rounded-md border border-transparent bg-gradient-to-r from-orange-500 to-yellow-400 px-8 py-3 text-base font-medium text-black hover:bg-indigo-700 md:py-4 md:px-10 md:text-lg"
+                    className="flex w-full items-center justify-center rounded-md border border-transparent bg-gradient-to-r from-orange-500 to-yellow-400 px-8 py-3 text-base font-medium text-black hover:bg-indigo-700 md:py-4 md:px-10 md:text-lg animate__animated animate__infinite animate__pulse"
                   >
                     Git Hub
                   </a>
@@ -34,7 +33,7 @@ export const InicioPage = () => {
                 <div className="mt-3 sm:mt-0 sm:ml-3">
                   <a
                     href="https://www.linkedin.com/in/daniel-hernandez-ayala-08542036/"
-                    className="flex w-full items-center justify-center rounded-md border border-transparent bg-gradient-to-l from-orange-500 to-yellow-400 px-8 py-3 text-base font-medium text-black hover:bg-indigo-200 md:py-4 md:px-10 md:text-lg"
+                    className="flex w-full items-center justify-center rounded-md border border-transparent bg-gradient-to-l from-orange-500 to-yellow-400 px-8 py-3 text-base font-medium text-black hover:bg-indigo-200 md:py-4 md:px-10 md:text-lg animate__animated animate__infinite animate__pulse"
                   >
                     LinkdIn
                   </a>

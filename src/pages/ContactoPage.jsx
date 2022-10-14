@@ -2,6 +2,7 @@ import React from "react";
 
 export const ContactoPage = () => {
   return (
+    <>
     <div className="text-center bg-white">
       <div className="py-2 mb-5 items-center flex justify-center">
           <h1 className="bg-gradient-to-b from-orange-500 to-yellow-400 text-black font-bold text-2xl rounded-md w-40">
@@ -102,7 +103,8 @@ export const ContactoPage = () => {
             <div></div>
           </form>
         </div>
-      </div>
-    </div>
+      </div>      
+    </div>       
+    </>
   );
 };

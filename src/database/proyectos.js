@@ -2,7 +2,7 @@ export const proyectos = [
   {
     id: 1,
     titulo: "Contador",
-    descripcion: "aplicación sencilla para contar, aumenta y disminuye su valor en uno, con boton reset, facil para usar desde un celular",
+    descripcion: "Aplicación sencilla para contar, aumenta y disminuye su valor en uno, con boton reset, facil para usar desde un celular",
     url: "../AppContador.JPG",
     url_preview: "https://contadordh.netlify.app",
     url_github: "https://github.com/Danielher",
@@ -10,7 +10,7 @@ export const proyectos = [
   {
     id: 2,
     titulo: "App TO-DO List",
-    descripcion: "Aplicacion de lista de tareas, se puede crear, editar y eliminar cada tarea por aparte",
+    descripcion: "Aplicación de lista de tareas, se puede crear, editar y eliminar cada tarea por aparte",
     url: "../AppTodoList.JPG",
     url_preview: "https://aplicaciondetareas.netlify.app",
     url_github: "https://github.com/Danielher",
@@ -34,17 +34,17 @@ export const proyectos = [
   {
     id: 5,
     titulo: "Landing_Page",
-    descripcion: "Creacion de Landing Page con React JS y Tailwind",
+    descripcion: "Creación de Landing Page con React JS y Tailwind",
     url: "../LandingPage.JPG",
-    url_preview: "https://instagram.com",
+    url_preview: "https://landingpagedh.netlify.app/",
     url_github: "https://github.com/Danielher/My_Landing_Page",
   },
   {
     id: 6,
-    titulo: "Juego del Ahorcado",
-    descripcion: "Juego tradicional del ahorcado, con 9 intentos, realizadon con React JS y TS",
-    url: "../JuegoAhorcado.JPG",
-    url_preview: "https://facebook.com",
+    titulo: "App de Heroes",
+    descripcion: "¿Tu de que Team eres?, Marvel o DC?. Prueba esta app para averiguarlo!.",
+    url: "../AppHeroes.JPG",
+    url_preview: "https://heroesmydc.netlify.app/",
     url_github: "https://github.com/Danielher",
   },
 ];
