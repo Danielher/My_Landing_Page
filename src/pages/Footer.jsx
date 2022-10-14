@@ -145,7 +145,7 @@ export const Footer = () => {
             href="https://fimlm.org/Campus"
             target="_blank"            
           className="items-center justify-center">
-            <img src="./public/campus.png" alt="" className="max-w-full h-auto"/>
+            <img src="../campus.svg" alt="" className="max-w-full h-auto"/>
           </a>
         </div>        
       </footer>
