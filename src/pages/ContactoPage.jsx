@@ -85,7 +85,7 @@ export const ContactoPage = () => {
             <div className="mb-6">
               <button
                 type="submit"
-                className="
+                className="90¿
             h-10
             px-5
             text-black font-bold
