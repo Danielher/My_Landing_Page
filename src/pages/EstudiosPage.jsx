@@ -26,7 +26,7 @@ export const EstudiosPage = () => {
             <img
               alt=""
               className="object-cover w-full group-hover:scale-110 transition duration-300 ease-in-out"
-              src="./public/Sistemas.jpeg"
+              src="../Sistemas.svg"
             />
           </div>
           <div className="overflow-hidden  aspect-video bg-red-400 cursor-pointer rounded-xl relative group">
@@ -44,7 +44,7 @@ export const EstudiosPage = () => {
             <img
               alt=""
               className="object-cover w-full group-hover:scale-110 transition duration-300 ease-in-out"
-              src="./public/Mecatronica.jpeg"
+              src="../Mecatronica.svg"
             />
           </div>
           <div className="overflow-hidden  aspect-video bg-red-400 cursor-pointer rounded-xl relative group">
@@ -64,7 +64,7 @@ export const EstudiosPage = () => {
             <img
               alt=""
               className="object-cover w-full group-hover:scale-110 transition duration-300 ease-in-out"
-              src="./public/Diplomado.jpg"
+              src="../Diplomado.svg"
             />
           </div>
           <div className="overflow-hidden  aspect-video bg-red-400 cursor-pointer rounded-xl relative group">
@@ -82,7 +82,7 @@ export const EstudiosPage = () => {
             <img
               alt=""
               className="object-coverf w-full  group-hover:scale-110 transition duration-300 ease-in-out"
-              src="./public/webdesign.jpg"
+              src="../WebDesign.svg"
             />
           </div>
           <div className="overflow-hidden  aspect-video bg-red-400 cursor-pointer rounded-xl relative group">
@@ -100,7 +100,7 @@ export const EstudiosPage = () => {
             <img
               alt=""
               className="object-cover w-full group-hover:scale-110 transition duration-300 ease-in-out"
-              src="./public/Redes.jpg"
+              src="../Redes.svg"
             />
           </div>
           <div className="overflow-hidden  aspect-video bg-red-400 cursor-pointer rounded-xl relative group">
@@ -120,7 +120,7 @@ export const EstudiosPage = () => {
             <img
               alt=""
               className="object-cover w-full group-hover:scale-110 transition duration-300 ease-in-out"
-              src="./public/Itil.jpg"
+              src="../Itil.svg"
             />
           </div>
         </div>       
